@@ -23,6 +23,6 @@ classificação_2D:
 
 intro_Machine_learning_4:
   datatime,
-  DummyClassifier
+  DummyClassifier,
   Graphviz,
   DecisionTreeClassifier
