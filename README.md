@@ -20,3 +20,9 @@ classificação_2D:
   SVM(),
   Create random values with SVC,
   Using StandardScaler to improve the model
+
+intro_Machine_learning_4:
+  datatime,
+  DummyClassifier
+  Graphviz,
+  DecisionTreeClassifier
